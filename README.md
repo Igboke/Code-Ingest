@@ -127,8 +127,10 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact
+## 🤝 Get in Touch / Support
 
-Have questions, suggestions, or feedback? Feel free to reach out!
+Have questions, found a bug, or want to suggest a new feature? I'd love to hear from you!
 
-Email - [Igboke Daniel](mailto:danieligboke669@gmail.com)
+- __Email:__ [Igboke Daniel](mailto:danieligboke669@gmail.com)
+
+- __GitHub Issues:__ Feel free to [open an issue](https://github.com/Igboke/Code-Ingest/issues) on this repository.
